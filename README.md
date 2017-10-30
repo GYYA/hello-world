@@ -1,2 +1,4 @@
 # hello-world
-just a test
+
+hi,guys!
+life is short
